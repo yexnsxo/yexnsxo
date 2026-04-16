@@ -1,6 +1,6 @@
 # Hi, I'm Yeonseo 🐠
 
-> I enjoy building user-focused web services and am currently expanding my interests into Backend, Data, and AI 🤖
+> I enjoy building user-focused web services and am currently expanding into Backend, Data, and AI 🤖
 
 ## About Me 🤗
 - Computer Science student at Sookmyung Women’s University 🎓
