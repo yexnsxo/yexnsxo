@@ -1,6 +1,7 @@
 # Hi, I'm Yeonseo 🐠
 
-> I enjoy building user-focused web services and am currently expanding into Backend, Data, and AI 🤖
+> Frontend developer focused on user experience and service flow 🪄
+> Exploring backend, data, and AI to build better services 🤖
 
 <br/>
 
@@ -47,9 +48,9 @@
 <br/>
 
 ## Currently 🌱
-- Learning FastAPI, SQL, and backend fundamentals
-- Exploring practical AI/RAG projects
-- Building projects that connect web services with data and AI
+- Deepening frontend skills with TypeScript and Next.js
+- Learning backend fundamentals to better understand API and data flow
+- Exploring how data and AI can improve user discovery and service experience
 
 <br/>
 
