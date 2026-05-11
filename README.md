@@ -1,14 +1,15 @@
 # Hi, I'm Yeonseo 🐠
 
-> Frontend developer focused on user experience and service flow 🪄
-> Exploring backend, data, and AI to build better services 🤖
+> Computer Science student interested in service flow, data, and user experience 📊
+> Experienced in frontend projects, now expanding into data analysis, backend, and AI 🤖
 
 <br/>
 
 ## About Me 🤗
 - Computer Science student at Sookmyung Women’s University 🎓
 - Started with frontend development through web projects, hackathons, and club activities
-- Interested in how services are structured beyond the UI
+- Interested in analyzing user behavior, service flow, and platform data to improve services
+- Currently learning Python, SQL, backend fundamentals, and AI/data analysis
 
 <br/>
 
@@ -34,13 +35,13 @@
 
 ## Tech Stack 🛠️
 #### Frontend 🪄
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript%20(Basic)-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript%20-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 
 #### Styling & UI 💅🏻
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> <img src="https://img.shields.io/badge/Responsive%20Design-14B8A6?style=for-the-badge&logoColor=white">
 
-#### Experience With ⚙️
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+#### Data & Backend Basics 📊
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Linux%20CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 #### Tools 🧰
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
@@ -48,9 +49,10 @@
 <br/>
 
 ## Currently 🌱
-- Deepening frontend skills with TypeScript and Next.js
-- Learning backend fundamentals to better understand API and data flow
-- Exploring how data and AI can improve user discovery and service experience
+- Learning Python, pandas, SQL, and basic data analysis
+- Exploring advertising data, platform metrics, DMP, and AI-based service improvement
+- Studying backend fundamentals to better understand API and data flow
+- Continuing to build frontend projects with a focus on user experience and service flow
 
 <br/>
 
